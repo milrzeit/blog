@@ -1,6 +1,6 @@
 
 ... {{ site.test }} ...
-## Welcome to GitHub Pages
+## Welcome to this place
 
 now, https://learnxinyminutes.com
 
